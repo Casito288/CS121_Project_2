@@ -3,13 +3,20 @@
 Ethan Castro
 
 ## Project Obj
-
-### Make a compilable guessing game
+  
+##  MAKE A COMPILABLE GUESSING GAME
 * include the input/output library
-
-* Create the main funciton
-  * Greet the user and describe the game  
-  * Prompt and accept input from the user   
-  *   Run a loop until the user guesses the correct num  
-  * Congradulate the user on guessing correctly  
-* return 0 
+*
+* main funtion
+*   declare variables
+*   greet user
+*   collect user input
+*   
+*   while user has not guessed correctly
+*     if guessed number > correct number
+*     if else guessed number < correct number
+*     if guessed number == correct number
+*
+*   user has guessed correctly!
+*
+* return 0; 
